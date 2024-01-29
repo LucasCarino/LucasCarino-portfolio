@@ -42,8 +42,17 @@ import coverhunt from './company/coverhunt.png';
 import dcc from './company/dcc.png';
 import kelhel from './company/kelhel.png';
 import microverse from './company/microverse.png';
+import accenture from './company/accenture.png';
+import ag from './company/ag.png';
+import galicia from './company/galicia.png';
 
 import conexionag from './projects/conexionag.png';
+import expertease from './projects/expertease.png';
+import sapui_1 from './projects/sapui_1.png';
+import sapui_2 from './projects/sapui_2.png';
+import sapui_3 from './projects/sapui_3.png';
+import sapui_4 from './projects/sapui_4.png';
+import sapui_5 from './projects/sapui_5.png';
 import leaderboard from './projects/leaderboard.png';
 import math from './projects/math-magicians.png';
 import movie from './projects/movie-metro.png';
@@ -87,6 +96,12 @@ export {
   tailwind,
   typescript,
   conexionag,
+  expertease,
+  sapui_1,
+  sapui_2,
+  sapui_3,
+  sapui_4,
+  sapui_5,
   leaderboard,
   math,
   movie,
@@ -96,4 +111,7 @@ export {
   dcc,
   kelhel,
   microverse,
+  accenture,
+  ag,
+  galicia
 };
